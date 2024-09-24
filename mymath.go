@@ -13,7 +13,6 @@ func Abs(x float64) float64 {
 func Max(x, y float64) float64 {
 	return math.Max(x, y)
 }
-
 func Yn(n int, x float64) float64 {
 	return math.Yn(n, x)
 }
